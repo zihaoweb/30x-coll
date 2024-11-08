@@ -1,0 +1,17 @@
+page{
+  background-color: #F2F5F9;
+  height: 100%;
+}
+.main {
+  margin: 24rpx 24rpx 0 24rpx;
+}
+
+.text-elli {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.b-round {
+  border-radius: 50%;
+}
